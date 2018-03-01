@@ -1,8 +1,8 @@
 //Semestre 2018 - 2
 //************************************************************//
 //************************************************************//
-//************** Alumno (s): Le髇 Del Vllar Rub閚 Alejandro *********************************//
-//*************											******//
+//************** Alumno (s): Le贸n Del Vllar Rub茅n Alejandro *********************************//
+//*************		Visual Studio 2015			******//
 //*************											******//
 //************************************************************//
 #include "Main.h"
@@ -96,13 +96,13 @@ int main(int argc, char** argv)   // Main Function
 {
 	glutInit(&argc, argv); // Inicializamos OpenGL
 	glutInitDisplayMode(GLUT_RGBA | GLUT_SINGLE); // Display Mode (Clores RGB y alpha | Buffer Sencillo )
-	glutInitWindowSize(500, 500);	// Tama駉 de la Ventana
+	glutInitWindowSize(500, 500);	// Tama帽o de la Ventana
 	glutInitWindowPosition(0, 0);	//Posicion de la Ventana
 	glutCreateWindow("Practica 2"); // Nombre de la Ventana
 	InitGL();						// Parametros iniciales de la aplicacion
-	glutDisplayFunc(display);  //Indicamos a Glut funci髇 de dibujo
-	glutReshapeFunc(reshape);	//Indicamos a Glut funci髇 en caso de cambio de tamano
-	glutKeyboardFunc(keyboard);	//Indicamos a Glut funci髇 de manejo de teclado
+	glutDisplayFunc(display);  //Indicamos a Glut funci贸n de dibujo
+	glutReshapeFunc(reshape);	//Indicamos a Glut funci贸n en caso de cambio de tamano
+	glutKeyboardFunc(keyboard);	//Indicamos a Glut funci贸n de manejo de teclado
 	glutMainLoop();          // 
 
 	return 0;
