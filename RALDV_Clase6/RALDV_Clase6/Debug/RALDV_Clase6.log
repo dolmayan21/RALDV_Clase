@@ -1,0 +1,6 @@
+﻿  SsitemaSolar.cpp
+c:\users\leondelvillar\desktop\raldv_clase6\raldv_clase6\ssitemasolar.cpp(47): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\leondelvillar\desktop\raldv_clase6\raldv_clase6\ssitemasolar.cpp(51): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\leondelvillar\desktop\raldv_clase6\raldv_clase6\ssitemasolar.cpp(55): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  RALDV_Clase6.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\RALDV_Clase6\RALDV_Clase6\Debug\RALDV_Clase6.exe
+  RALDV_Clase6.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\RALDV_Clase6\RALDV_Clase6\Debug\RALDV_Clase6.pdb (Partial PDB)
