@@ -1,0 +1,6 @@
+﻿  main_prac7.cpp
+c:\users\leondelvillar\desktop\raldv_clase7\raldv_clase7\main_prac7.cpp(41): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\leondelvillar\desktop\raldv_clase7\raldv_clase7\main_prac7.cpp(45): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\leondelvillar\desktop\raldv_clase7\raldv_clase7\main_prac7.cpp(49): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  RALDV_Clase7.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\RALDV_Clase7\RALDV_Clase7\Debug\RALDV_Clase7.exe
+  RALDV_Clase7.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\RALDV_Clase7\RALDV_Clase7\Debug\RALDV_Clase7.pdb (Partial PDB)
