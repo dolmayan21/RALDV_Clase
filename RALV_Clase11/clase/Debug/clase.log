@@ -1,0 +1,13 @@
+﻿  texture.cpp
+  main_prac11new.cpp
+  figuras.cpp
+c:\users\leondelvillar\desktop\ralv_clase11\figuras.cpp(20): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\leondelvillar\desktop\ralv_clase11\figuras.cpp(99): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\leondelvillar\desktop\ralv_clase11\figuras.cpp(152): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\leondelvillar\desktop\ralv_clase11\figuras.cpp(361): warning C4101: 'theta': variable local sin referencia
+c:\users\leondelvillar\desktop\ralv_clase11\figuras.cpp(361): warning C4101: 'phi': variable local sin referencia
+c:\users\leondelvillar\desktop\ralv_clase11\figuras.cpp(588): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  Camera.cpp
+  Generando código...
+  clase.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\RALV_Clase11\Debug\clase.exe
+  clase.vcxproj -> C:\Users\LEONDELVILLAR\Desktop\RALV_Clase11\Debug\clase.pdb (Partial PDB)
